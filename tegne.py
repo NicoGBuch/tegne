@@ -20,7 +20,7 @@ def oob(x):
 
 pixelSize = SCREENSIZE / gridSize
 blurSize = 4
-R
+
 while True:
     grid = [[0 for i in range(gridSize)] for j in range(gridSize)]
     lastPos = (0, 0)
